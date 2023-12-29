@@ -1,0 +1,21 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="myapp.models.customers.objects" />
+          <option value="excel.views.login" />
+          <option value="excel.models.customers.objects" />
+          <option value="excel.views.webpage" />
+          <option value="excel.views.homepage" />
+          <option value="epicgames.models.students.objects" />
+          <option value="epicgames.views.welcome" />
+          <option value="epicgames.views.details" />
+          <option value="epicgames.views.headphones" />
+          <option value="epicgames.views.neckband" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
